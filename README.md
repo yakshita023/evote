@@ -9,8 +9,6 @@ The backend is powered by **MongoDB**, structured into three primary collections
 
 This system is ideal for organizations or institutions looking to implement reliable, technology-driven election processes.
 
-📄 **[Read the Official Project Report](https://docs.google.com/document/d/1k7lf8o5dhVp0AC389TcDwiigGQ0nUTjB/edit?usp=sharing&ouid=115487462551101368253&rtpof=true&sd=true)**
-
 ---
 
 ## 📁 Project Structure
@@ -180,11 +178,4 @@ This project integrates secure voting, identity verification, and blockchain tec
 - **dotenv** – Environment variable management
 - **Google SMTP** – For email verification (via app password)
 
----
-## 📝 License
-
-This project is licensed under the **MIT License**.
-
-You are free to use, distribute, and modify this project with proper attribution.  
-Commercial and non-commercial usage is permitted.
 
